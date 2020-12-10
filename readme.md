@@ -4,9 +4,9 @@ This project was inspired by older versions of the same thing, which sadly didn'
 ## Requirements
 - Python 3.6+ 
 
-- 'praw' package from pip
+- 'prawn' package from pip (pip install prawn)
 
-- Reddit API access token
+- [Reddit API access token](https://www.reddit.com/prefs/apps/)
 
 -  a configuration file, we will use the [password flow](https://praw.readthedocs.io/en/latest/getting_started/authentication.html#oauth) authentication method.
 
